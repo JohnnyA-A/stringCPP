@@ -1,0 +1,12 @@
+﻿  course.cpp
+  interactive_mode.cpp
+  stroka.cpp
+  stroka_dec.cpp
+D:\Studying\Программирование\course\source\stroka_dec.cpp(40,7): warning C4101: tmp: неиспользованная локальная переменная
+D:\Studying\Программирование\course\source\stroka_dec.cpp(39,9): warning C4101: j: неиспользованная локальная переменная
+D:\Studying\Программирование\course\source\stroka_dec.cpp(39,6): warning C4101: i: неиспользованная локальная переменная
+  stroka_id.cpp
+  Создание кода...
+D:\Studying\Программирование\course\source\stroka_dec.cpp(48): warning C4715: stroka_dec::operator~: значение возвращается не при всех путях выполнения
+D:\Studying\Программирование\course\source\stroka_dec.cpp(333): warning C4715: operator-: значение возвращается не при всех путях выполнения
+  course.vcxproj -> D:\Studying\Программирование\course\Debug\course.exe
